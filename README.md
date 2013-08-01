@@ -6,3 +6,8 @@ Scan a directory for dicom files and copy them to a destination directory in thi
 (or c:\dest\study_year\study_month\study_day\patientname_studyid)
 
 Edit the ```etc/config.properties``` for source and dest directory
+
+Info
+----
+
+It uses dcm4che-2.0.27 tools and jars
