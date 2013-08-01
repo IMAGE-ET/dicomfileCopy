@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="/home/alessio/tmp/dcm4che-2.0.27/lib/dcm4che-tool-dcmdir-2.0.27.jar"/>
+	<classpathentry kind="lib" path="/home/alessio/tmp/dcm4che-2.0.27/lib/dcm4che-base64-2.0.27.jar"/>
+	<classpathentry kind="lib" path="/home/alessio/tmp/dcm4che-2.0.27/lib/commons-cli-1.2.jar"/>
+	<classpathentry kind="lib" path="/home/alessio/tmp/dcm4che-2.0.27/lib/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="/home/alessio/tmp/dcm4che-2.0.27/lib/slf4j-log4j12-1.6.1.jar"/>
+	<classpathentry kind="lib" path="/home/alessio/tmp/dcm4che-2.0.27/lib/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="/home/alessio/tmp/dcm4che-2.0.27/lib/dcm4che-imageio-2.0.27.jar"/>
+	<classpathentry kind="lib" path="/home/alessio/tmp/dcm4che-2.0.27/lib/dcm4che-image-2.0.27.jar"/>
+	<classpathentry kind="lib" path="/home/alessio/tmp/dcm4che-2.0.27/lib/dcm4che-iod-2.0.27.jar"/>
+	<classpathentry kind="lib" path="/home/alessio/tmp/dcm4che-2.0.27/lib/dcm4che-core-2.0.27.jar"/>
+	<classpathentry kind="lib" path="/home/alessio/workspace4/dicomfileCopy/etc"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
